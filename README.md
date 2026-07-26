@@ -1,1 +1,6 @@
-<img width="2377" height="1445" alt="image" src="https://github.com/user-attachments/assets/b3da549a-38ef-45f4-9790-23046a9486b6" />
+# Plugins
+
+| Plugin | Description | Files |
+| --- | --- | --- |
+| Volumetric Cloud Shader | Volumetric weather, native AE camera support, continuous day cycles, and above-cloud views. | [`plugins/VolumetricCloudShader`](plugins/VolumetricCloudShader) |
+| ASCII Art Converter | System-font ASCII rendering with typography, directional glyph mapping, and character animation. | [`plugins/ASCIIArtConverter`](plugins/ASCIIArtConverter) |
